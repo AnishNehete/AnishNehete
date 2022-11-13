@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Profile Hits: [![HitCount](https://hits.dwyl.com/AnishNehete/AnishNehete.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AnishNehete/AnishNehete)
+ [![HitCount](https://hits.dwyl.com/AnishNehete/AnishNehete.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AnishNehete/AnishNehete)
 
 - 🔭 I’m currently working on taking rest
 - 🌱 I’m currently learning on how to be patient
