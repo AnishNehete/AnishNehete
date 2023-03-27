@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning on how to be patient
 - 💬 Ask me about anything
 - 📫 How to reach me: @AnishNehete (github)
-- ⚡ Fun fact: I hate coding ngl
+- ⚡ Fun fact: I hate writing Assignments
 
